@@ -750,7 +750,7 @@ font-size: 50px;
   .waviy1 {
     position: relative;
     font-family: orbitron;
-    color: hsl(0, 100%, 31%);
+    color: white;
 
   }
   .waviy1 span {
@@ -761,7 +761,7 @@ font-size: 50px;
     text-transform: uppercase;
     animation: flip 2.5s infinite;
     animation-delay: calc(.2s * var(--i));
-    color: hsl(0, 100%, 31%);
+    color: white;
     font-family: orbitron;
     
   }
